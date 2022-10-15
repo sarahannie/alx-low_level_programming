@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - points if the number is postive, negative, 0 
- * 
- * Return: Always 0 (success)
- */
+* main - points if the number is postive, negative, 0 
+* 
+* Return: Always 0 (success)
+*/
 
 int main(void)
 {
@@ -25,6 +25,5 @@ else
 {
 printf("%d is negative\n", n);
 }
-	
 return (0);
 }
