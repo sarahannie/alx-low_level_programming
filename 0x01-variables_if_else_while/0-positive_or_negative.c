@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdlib.h>
 /**
-* main - points if the number is postive, negative, 0 
-* Return: Always 0 (success)
+* main - points if the number is postive,negative,0
+0-* Return: Always 0 (success)
 */
 
 int main(void)
@@ -20,7 +20,7 @@ else if (n == 0)
 {
 printf("%d is zero\n", n);
 }
-else 
+else
 {
 printf("%d is negative\n", n);
 }
