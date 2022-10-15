@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
 * main - points if the number is postive, negative, 0 
-* 
 * Return: Always 0 (success)
 */
 
