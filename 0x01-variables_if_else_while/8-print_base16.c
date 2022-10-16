@@ -4,7 +4,7 @@
 
 /**
 * main - all in base 16
-* Return: Always 0 (success) 
+* Return: Always 0 (success)
 */
 
 int main(void)
@@ -12,9 +12,9 @@ int main(void)
 char alp;
 int num;
 
-for(num = 0; num < 10; num++)
-putchar((num % 10 ) + '0');
-for(alp = 'a'; alp <= 'f'; alp++)
+for (num = 0; num < 10; num++)
+putchar((num % 10) + '0');
+for (alp = 'a'; alp <= 'f'; alp++)
 putchar(alp);
 putchar('\n');
 return (0);
