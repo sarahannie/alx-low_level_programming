@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+
+/**
+ * main - name alphabete in lower case
+ *Return 0 (success)
+ */
+
+int main(void)
+{
+  putchar(2, "a..z\n");
+  return (0);
+}
